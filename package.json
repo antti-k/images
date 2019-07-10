@@ -1,0 +1,14 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antti <karvanen.antti@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jimp": "^0.6.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
